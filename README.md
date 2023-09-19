@@ -17,6 +17,8 @@
   <img align="cewnter" alt="html5" src=" https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white
 </div>
 
+### IDE's que utilizo!
+
 <div style="display: inline_block><br/>
   <img align="cewnter" alt="html5" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white ide"/>
   <img align="cewnter" alt="html5" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white vs"/>
