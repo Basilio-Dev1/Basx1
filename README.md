@@ -1,6 +1,6 @@
 ### Olá, Sou o Pedro! 👩‍💻
- Sou estudande em Desenvolvimento de Sistemas, com iniciação na área de tecnologia por meio de um curso tecnico voltado para a automação. Hoje com desenvolvimento em C# e c++ me aprofundo em conhecimentos em Java e PHP, tentando sempre melhorar nessa minha paixão que é a tecnologia.
-
+ Sou amante de tecnologia e estou me graduando no curso de Analise e Desenvolvimento de sistemas para que me torne no futuro um Engenheiro de Software! Estou com foco em Desenvolvimento Back End em Java, com Spring Boot, MYSQL e ORACLE, além de junto estudar a AWS
+ 
  My stats!
 
  ![Basx1 GitHub stats](https://github-readme-stats.vercel.app/api?username=Basx1&show_icons=true&theme=radical)
