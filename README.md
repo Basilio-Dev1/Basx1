@@ -1,9 +1,12 @@
 ### Olá, Sou o Pedro! 👩‍💻
  Sou amante de tecnologia e estou me graduando no curso de Analise e Desenvolvimento de sistemas para que me torne no futuro um Engenheiro de Software! Estou com foco em Desenvolvimento Back End em Java, com Spring Boot, MYSQL e ORACLE, além de junto estudar a AWS
+ <div>
+<img align="center" alt="Header" src="https://github.com/joaopauloaramuni/joaopauloaramuni.github.io/blob/main/image/header2.png?raw=true"/>
+</div>
  
  My stats!
 
- ![Basx1 GitHub stats](https://github-readme-stats.vercel.app/api?username=Basx1&show_icons=true&theme=radical)
+ ![Basx1 GitHub stats](https://github-readme-stats.vercel.app/api?username=Basilio-Dev1&show_icons=true&theme=radical)
 
 Tecnologias que estou me desenvolvendo!
 
